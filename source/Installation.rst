@@ -10,7 +10,7 @@ First, please download or clone the `SpaGT.zip` file from github `Code` and unzi
 
 .. code-block:: python
 
-    git clone 
+    git clone https://github.com/xy428/SpaGT.git
 
 
 The entire installation process takes place in the `SpaGT` directory, so first go to that directory by:
