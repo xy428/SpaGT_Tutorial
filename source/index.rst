@@ -1,4 +1,4 @@
-SPL - deciphering spatial domains from spatially resolved transcriptomics
+SpaGT - Spatialyinformed Graph Transformer
 =============================================================================
 
 .. toctree::
