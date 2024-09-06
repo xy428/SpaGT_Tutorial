@@ -7,7 +7,6 @@ SpaGT - Spatialyinformed Graph Transformer
 
    Installation
    run_dlpfc
-   run_cl
    run_cl_denoising
 
 .. image:: ../image/SpaGT_overview.png
