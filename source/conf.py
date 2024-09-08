@@ -17,7 +17,6 @@ release = 'l'
 extensions = ['nbsphinx',]
 
 templates_path = ['_templates']
-exclude_patterns = []
 
 
 
@@ -28,4 +27,13 @@ html_theme = 'sphinx_rtd_theme'
 html_theme_options = {
     'navigation_depth': 4,
     'collapse_navigation': False,
+}
+
+
+html_context = {
+    "display_github": True,
+    "github_user": "xy428",  # GitHub 用户名
+    "github_repo": "SpaGT_Tutorial",  # 仓库名称
+    "github_version": "main",  # 分支名，比如 'main' 或 'master'
+    "conf_py_path": "/source/",  # conf.py 文件相对于仓库根目录的路径，如果文件在 'docs/' 目录中
 }
