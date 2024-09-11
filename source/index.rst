@@ -10,7 +10,7 @@ SpaGT - Spatialyinformed Graph Transformer
    run_cl
    run_cl_denoising
 
-.. image:: ../image/SpaGT_overview.png
+.. image:: ../image/SpaGT_overview.jpg
    :width: 600
 Introduction
 ========
